@@ -1,0 +1,3 @@
+gcc your_file.c -lgdi32 -luser32 -o SortingVisualizer
+
+gcc SortingVisualizer.c -lgdi32 -luser32 -o SortingVisualizer
